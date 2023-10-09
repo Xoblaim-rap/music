@@ -273,3 +273,33 @@ h6 {
     margin: 50px !important;
     line-height: 1.8;
 }
+
+.report {
+    width: 70%;
+    margin: 15px;
+    align-content: center;
+}
+
+.feedback_1 {
+    width: 50%;
+    margin: 25px 15px 15px 15px;
+    align-content: center;
+}
+
+.feedback_2 {
+    width: 30%;
+    margin: 15px;
+    align-content: center;
+}
+
+.feedback_3 {
+    width: 25%;
+    margin: 15px;
+    align-content: center;
+}
+
+.feedback_4 {
+    width: 35%;
+    margin: 15px;
+    align-content: center;
+}
