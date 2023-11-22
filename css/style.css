@@ -43,6 +43,10 @@ nav ul li a {
     font-size: 20px;
 }
 
+a {
+    color: #B8E0DE;
+}
+
 a:hover {
     color: #481A2A;
 }
@@ -176,7 +180,7 @@ iframe {
 
 .inedito-card {
     border-radius: 10px;
-    margin: 10px;
+    margin: 10px 0px 25px 0px;
     display: inline-block;
     background-color: #282828;
     box-align: center;
@@ -224,11 +228,10 @@ footer a {
   
   p {
     display: inline;
-    margin: 0px 15px 0px 0px;
   }
   
   i {
     font-size: 30px !important; 
     display: inline;
-    margin: 5px 10px 35px 0px;
+    margin: 5px 8px 35px 8px;
 }
