@@ -28,6 +28,7 @@ header h1 {
 nav ul {
     list-style-type: none;
     padding-top: 10px;
+    padding-left: 0px;
     margin-bottom: 0px;
 }
 
@@ -78,6 +79,10 @@ p {
     font-size: 18px;
 }
 
+#about {
+    margin-right: -94px;
+}
+
 .container.px-5 {
     margin-right: auto;
     margin-left: auto;
@@ -85,7 +90,7 @@ p {
 }
 
 .col-lg-6 {
-    padding: 0;
+    padding: 0px;
 }
 
 #about h1 {
@@ -173,7 +178,7 @@ iframe {
     border-radius: 5px;
     margin: 25px;
     display: inline-block;
-    background-image: url('../imgs/cover_inedito.jpeg');
+    background-image: url('../imgs/IMG_0004.JPG');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -227,11 +232,12 @@ footer a {
   }
   
   p {
-    display: inline;
+    display: inline-flexbox;
+    margin-bottom: 12px;
   }
   
   i {
     font-size: 30px !important; 
     display: inline;
-    margin: 5px 8px 35px 8px;
+    margin: 5px 8px 32px 8px;
 }
